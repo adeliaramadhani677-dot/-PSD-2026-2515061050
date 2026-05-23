@@ -195,4 +195,4 @@ Selanjutnya saya mencoba fitur hapus anime dengan menghapus data “prism”. Pr
 
 Pada fitur urut judul A-Z, program menampilkan seluruh data anime secara terurut yaitu “86”, “barbatos gundam”, “bleach”, “conan”, “mtp”, dan “sao”. Pengurutan ini dilakukan menggunakan traversal inorder pada Binary Search Tree sehingga data dapat tampil secara otomatis sesuai urutan alfabet. Setelah itu saya menjalankan fitur jumlah anime dan program menampilkan total data sebanyak 6 anime karena satu data sebelumnya sudah dihapus. Terakhir saya memilih menu keluar dan program menampilkan pesan “Program selesai”, yang menandakan seluruh proses program telah berjalan dengan baik tanpa error.
 
-link video:
+link video: https://youtu.be/9y1A2wa8EY4

@@ -134,4 +134,5 @@ Setelah tampilan awal muncul, program meminta input nomor angka plat yang ingin 
 
 Selanjutnya program meminta input nomor plat kendaraan yang akan keluar. Saya menginputkan angka 5678, program menemukan BE5678CD dan menghapus data kendaraan tersebut dari hash table menggunakan fungsi remove_key(). Setelah penghapusan berhasil, program menampilkan pesan bahwa BE5678CD berhasil keluar. Indeks 3 yang sebelumnya berisi kendaraan milik vina kini berubah menjadi KOSONG, menandakan data berhasil dihapus.
 
-Link Youtube: 
+Link Youtube: https://youtu.be/Oiep_17dx2k
+
